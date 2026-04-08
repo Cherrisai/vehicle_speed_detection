@@ -1,7 +1,6 @@
 # Real-Time Vehicle Speed Detection & Monitoring System
-## India Roads — Production Grade
 
----
+Huggingface deploy: https://huggingface.co/spaces/cherrisai/vehicle_speed_monitor
 
 ## Architecture
 
